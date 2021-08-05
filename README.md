@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/paola-rodrigues">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paola-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paola-rodrigues&layout=compact&langs_count=2&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paola-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paola-rodrigues&layout=compact&langs_count=2&theme=dracula"/>
  </div>
     <div style="display: inline_block"><br>
    <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
