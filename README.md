@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying
 - 🌱 I’m currently learning programming language
-- 😄 Pronouns: she/ela/dela
+- 😄 Pronouns: she/ela
 
 <div>
   <a href="https://github.com/paola-rodrigues">
